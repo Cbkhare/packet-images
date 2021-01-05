@@ -1,4 +1,4 @@
-FROM debian_9-base
+FROM debian:9
 MAINTAINER David Laube <dlaube@packet.net>
 LABEL Description="Packet's debian_9-baremetal_0 OS image" Vendor="Packet.net"
 
